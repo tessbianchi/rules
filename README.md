@@ -1,4 +1,4 @@
-# My weird Rules for my internet shopping addiction
+# My weird rules for my internet shopping addiction
 
 - If something is continuing an existing project and is under $20, just buy it
 - Each task is either:
