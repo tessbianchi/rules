@@ -1,6 +1,7 @@
 # My weird rules for my internet shopping addiction
 
-- If something is continuing an existing project and is under $20, just buy it
+- If it's a necessity (like toilet paper or almond milk) just buy it.
+- If it's a new gadget, it will make your much life easier (NOT HARDER - like no new projects or perfecting existing ones) and it's <$20, just get it
 - Each task is either:
     - Tiny - $0: Takes very little time to do, and doesn’t require leaving the house, or it’s fun.
     - Small - $25-$75: It can be fun but hard or just really annoying to do or something that I've been procrastinating on for a while. 
